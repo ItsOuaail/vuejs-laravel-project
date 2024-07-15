@@ -12,7 +12,7 @@
               <li><a href="#contact">Contact Us</a></li>
             </ul>
           </div>
-          <a href="#home" class="btn btn-ghost text-xl">LOGO</a>
+          <a href="#home" class="btn btn-ghost text-xl">XPLORE</a>
         </div>
         <div class="navbar-center hidden lg:flex">
           <ul class="menu menu-horizontal px-1">
